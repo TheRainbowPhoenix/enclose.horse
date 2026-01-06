@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [".typings"],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.stubPath": ".typings",
+    "python.analysis.useLibraryCodeForTypes": false
+}
