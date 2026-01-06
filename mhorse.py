@@ -1,4 +1,4 @@
-# main.py - Enclose the Horse (Optimized)
+# Enclose the Horse
 from gint import *
 import sys
 
@@ -565,5 +565,6 @@ def main():
             draw_grid_optimized(force=False)
             draw_ui_dynamic()
             dupdate()
+
 
 main()
